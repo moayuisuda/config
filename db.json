@@ -2,7 +2,7 @@
   "presets": [
     {
       "id": "version",
-      "latest": "1.4.6"
+      "latest": "1.4.7"
     }
   ],
   "profile": {
